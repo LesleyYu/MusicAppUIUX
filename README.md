@@ -1,5 +1,9 @@
 # MusicAppUIUX
-This is the rationale of the android mobile phone app designed for music festivals
+This is the rationale of the android mobile phone app designed for music festivals.
+
+The interactive app design can be viewed [here](https://2amrij.axshare.com). 
+
+点击[这里](https://2amrij.axshare.com)查看项目互动页面。
 
 ![0001](./pics/0001.jpg)
 
